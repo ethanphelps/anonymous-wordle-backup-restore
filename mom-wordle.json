@@ -1,0 +1,46 @@
+{
+    "game": {
+        "id": 1291,
+        "dayOffset": 917,
+        "boardState": [
+            "tears",
+            "whose",
+            "scope",
+            "slope",
+            "",
+            ""
+        ],
+        "currentRowIndex": 4,
+        "status": "WIN",
+        "timestamps": {
+            "lastPlayed": 1703382084449,
+            "lastCompleted": 1703382084449
+        }
+    },
+    "settings": {
+        "hardMode": false,
+        "darkMode": false,
+        "colorblindMode": false
+    },
+    "stats": {
+        "currentStreak": 5,
+        "maxStreak": 46,
+        "guesses": {
+            "1": 0,
+            "2": 33,
+            "3": 151,
+            "4": 177,
+            "5": 89,
+            "6": 17,
+            "fail": 2
+        },
+        "winPercentage": 100,
+        "gamesPlayed": 469,
+        "gamesWon": 467,
+        "averageGuesses": 4,
+        "isOnStreak": true,
+        "hasPlayed": true
+    },
+    "timestamp": 1703382084,
+    "schemaVersion": "0.13.1"
+}
